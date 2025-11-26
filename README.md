@@ -1,3 +1,7 @@
+*****Reason for pushing it from saurabh mishra's account is, he is my brother and I am using his laptop since a month because my laptop is under repairing. 
+kindly consider my reason , I can also verify my reason if needed.*****
+
+
 DevOps Foundations Assignment: Docker, Git, and Linux
 
 This repository contains a simple Dockerfile designed to demonstrate fundamental Linux operations within a containerized environment, serving as a practical exercise in core DevOps, Docker, and Git principles.
@@ -127,5 +131,6 @@ Git
 Version Control Workflow: The steps require using the fundamental Git flow: init (starting a project), add (staging changes), commit (saving history), remote add (linking to cloud storage), and push (sharing the work). This is the bedrock of collaborative DevOps workflows.
 
 DevOps
+
 
 Toolchain Integration: The entire assignment is a mini-DevOps pipeline. It takes code (the Linux commands/Dockerfile), packages it into an artifact (the Docker image), manages its source version (Git/GitHub), and deploys it (running the Docker container). This demonstrates the integration mindset essential to DevOps.
